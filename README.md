@@ -39,9 +39,17 @@ O mesmo botão alterna entre as opções **Mostrar** e **Ocultar**.
 
 ### Editar
 
-Permite alterar os nomes cadastrados.
+### Editar
 
-Ao iniciar a edição, o aplicativo apresenta no campo o nome que será alterado. Após informar o novo nome, a alteração é salva no arquivo JSON.
+O botão **Editar** permite selecionar qual catequizando será alterado.
+
+Ao clicar em **Editar**, o aplicativo apresenta no campo o nome que está sendo selecionado para edição. Após informar o novo nome e clicar novamente em **Editar**, a alteração é realizada.
+
+Depois disso, o aplicativo avança para o próximo nome da lista. Dessa forma, ao utilizar o botão **Editar** novamente, é possível percorrer os catequizandos e selecionar outro nome para edição.
+
+A seleção dos nomes é feita de forma sequencial, seguindo a ordem em que foram cadastrados. Ao chegar ao último nome, a seleção retorna para o primeiro.
+
+Caso o botão **Cadastrar** seja pressionado durante uma edição, o aplicativo não altera o nome que estava sendo selecionado. Nesse caso, o nome digitado é tratado como um novo cadastro.
 
 ### Deletar
 
