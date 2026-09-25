@@ -39,8 +39,6 @@ O mesmo botão alterna entre as opções **Mostrar** e **Ocultar**.
 
 ### Editar
 
-### Editar
-
 O botão **Editar** permite selecionar qual catequizando será alterado.
 
 Ao clicar em **Editar**, o aplicativo apresenta no campo o nome que está sendo selecionado para edição. Após informar o novo nome e clicar novamente em **Editar**, a alteração é realizada.
